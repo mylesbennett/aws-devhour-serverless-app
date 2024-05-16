@@ -1,0 +1,42 @@
+{
+    "Items": [
+        {
+            "object4": {
+                "S": "Restaurant"
+            },
+            "object5": {
+                "S": "Child"
+            },
+            "object6": {
+                "S": "Female"
+            },
+            "object7": {
+                "S": "Girl"
+            },
+            "image": {
+                "S": "DSCF6688.jpg"
+            },
+            "object1": {
+                "S": "Glass"
+            },
+            "object2": {
+                "S": "Finger"
+            },
+            "object10": {
+                "S": "Glasses"
+            },
+            "object3": {
+                "S": "Person"
+            },
+            "object8": {
+                "S": "Face"
+            },
+            "object9": {
+                "S": "Food Court"
+            }
+        }
+    ],
+    "Count": 1,
+    "ScannedCount": 1,
+    "ConsumedCapacity": null
+}

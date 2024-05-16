@@ -1,0 +1,15 @@
+.classpath.txt
+target
+.classpath
+.project
+.idea
+.aws-sam
+.settings
+.vscode
+.DS_Store
+*.iml
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
